@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">MusicPlayer</string>
+    <string name="statusBar" />
+    <string name="prev_btn" />
+    <string name="next_btn" />
+    <string name="play_btn" />
+    <string name="title_view" >Artist - title </string>
+    <string name="back_btn" />
+    <string name="song_view" />
+    <string name="time_passed">00:00</string>
+    <string name="time_total" />
+</resources>
